@@ -1,15 +1,11 @@
 ### Hi there, I'm [Tonelyr][.me] 👋
 
-<!--
-**Tonelyr/Tonelyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I'm a student and a starter developer !
 - 🔭 I often work on [FiveBot][.fivelnk] 🤖 and I mainly do little projects.
 - 🔥 I mainly use Python as a programming language. 
 - 🌱 I always try to learn new languages ~~but never finish my tutorials~~ !
 - 🔥 I like technologies 🖥️ and planes 🛫 in general. I also like and play various video games 🎮.
 - 🥅 2020 : Become a more skilled developer.
-
 
 ## 📫 Contact
 - 💬 You can reach me on Discord : Tonelyr#0948
