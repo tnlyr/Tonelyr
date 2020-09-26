@@ -13,11 +13,9 @@
 
 ## 📫 Contact
 - 💬 You can reach me on Discord : Tonelyr#0948
-- 
 
-
+<!--
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 [.me]: https://tonelyr.github.io/
