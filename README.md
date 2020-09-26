@@ -1,4 +1,4 @@
-### Hi there, I'm Tonelyr[.me] 👋
+### Hi there, I'm [Tonelyr][.me] 👋
 
 <!--
 **Tonelyr/Tonelyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[.me] = tonelyr.github.io
+[.me]: https://tonelyr.github.io/
