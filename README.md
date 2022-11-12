@@ -14,5 +14,5 @@
 
 ## Vibing to 🎧:
 
-[![Spotify](https://spotify-status-ten.vercel.app/api/spotify/)](https://open.spotify.com/user/5usmzgs485ntq2zsmhdobflun)
+[![Spotify](https://spotify-status-ten.vercel.app/api?spin=true)](https://open.spotify.com/user/5usmzgs485ntq2zsmhdobflun)
 
