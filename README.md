@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋</h1>
 
-<p align="left">CS/SWE Student @ McGill University</p>
+<p align="left">I'm Lounes, a CS/SWE Student @ McGill University</p>
 
 <h2 align="left">About me</h2>
 
